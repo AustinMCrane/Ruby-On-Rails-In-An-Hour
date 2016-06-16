@@ -6,5 +6,10 @@
 ## Why We Need Them
 In 2016 the web has gone from basic webpages to serve text and small images to large complex systems with multiple uses and platforms. In order to keep up with the need of the consumer it is paramount to give them the best experiences when they use your software by serving dynamic apps.
 
-[](https://redditupvoted.files.wordpress.com/2015/10/4671164940_bf9fb1e671_o.jpg?w=584&h=437)
-[](http://www.panaceasocialmedia.com/blog/wp-content/uploads/2014/04/Twitter-screenshot-new-profile.png)
+*Web In The 80s*
+
+![](https://redditupvoted.files.wordpress.com/2015/10/4671164940_bf9fb1e671_o.jpg?w=584&h=437)
+
+*Web Today*
+
+![](http://www.panaceasocialmedia.com/blog/wp-content/uploads/2014/04/Twitter-screenshot-new-profile.png)
